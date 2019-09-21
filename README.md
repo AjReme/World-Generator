@@ -6,4 +6,4 @@ This is heightmap generator, that was implemented using *Diamond Square algorith
 
 ## What is requirements? ##
 
-You have to install `numpy`. If you want to use `grph.py`, install `PIL`.
+You have to install `numpy`. If you want to use `grph.py`, install `PIL` and `pandas`.
